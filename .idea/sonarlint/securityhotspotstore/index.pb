@@ -9,3 +9,7 @@ P
  contracts/growing-condition.clar,c/9/c9f2f77d912e7f9fc7cc396d5ed406f1d4f49309
 O
 tests/growing-condition.test.ts,b/c/bc166b854a237991b28fcfab7af068cf6ab150ba
+R
+"contracts/germination-testing.clar,8/4/84a654fe5af5707affee4b441241b18222b85a75
+Q
+!tests/germination-testing.test.ts,c/1/c195b60cbd1f12189a901954ed67122d6d62dcf3
